@@ -1,0 +1,9 @@
+#container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.element {
+    background-color: red;
+    padding: 5% 7%;
+}
